@@ -4,7 +4,7 @@ Welcome to the official codebase for **Agahai**, an AI-driven PropTech and asset
 
 Live Alpha Build (APK)
 For live evaluation, the compiled Android application package is available under the **Releases** section of this repository. 
-**[Download app-release.apk](https://github.com/ramin00shlbiy/agahai-core-frontend?utm_source=chatgpt.com)** (Install directly on an Android device or emulator).
+**[Download app-release.apk](sha256:47a653336d59ba9023a4af567b2ecf439d58198ceb9b7069dbad964726e35956)** (Install directly on an Android device or emulator).
 
 🛠️ Tech Stack & Architecture
 Frontend:** Flutter (Dart) — Architected via AI prompt engineering for hyper-optimized network data-saving layers (Zero-Data design).
