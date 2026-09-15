@@ -13,6 +13,6 @@ Backend Blueprint:** Laravel (PHP) — API workflow structured to interface with
 ## Security & IP Protection Notice
 Please note that while the core frontend layout, merchant portals, and user flows are fully open-source here for institutional vetting, the production backend server environments, cryptographic escrow protocols, and live database configurations are securely isolated to protect proprietary Intellectual Property (IP) and system integrity.
 
-## 👥 Vetted Founding Team
+## 👥 Founding Team
 * Ramin Ayoubi — Co-Founder & Product / Technology Lead
 Co-Founder — COO & Growth Lead
