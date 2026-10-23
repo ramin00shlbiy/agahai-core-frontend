@@ -2,7 +2,7 @@
 
 Welcome to the official codebase for **Agahai**, an AI-driven PropTech and asset digitization ecosystem tailored for emerging markets. This repository hosts the complete frontend user interface (UI) architecture built using Flutter.
 
-Live Alpha Build (APK)
+Live Build (APK)
 For live evaluation, the compiled Android application package is available under the **Releases** section of this repository. 
 **[Download app-release.apk](https://github.com/ramin00shlbiy/agahai-core-frontend/releases/download/v1.0.0-alpha/app-release.apk)** (Install directly on an Android device or emulator).
 
@@ -13,6 +13,6 @@ Backend Blueprint:** Laravel (PHP) — API workflow structured to interface with
 ## Security & IP Protection Notice
 Please note that while the core frontend layout, merchant portals, and user flows are fully open-source here for institutional vetting, the production backend server environments, cryptographic escrow protocols, and live database configurations are securely isolated to protect proprietary Intellectual Property (IP) and system integrity.
 
-## 👥 Founding Team
+👥 Founding Team
 * Ramin Ayoubi — Co-Founder & Product / Technology Lead
 Co-Founder — COO & Growth Lead
