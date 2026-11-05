@@ -24,7 +24,7 @@ Please note that while the core frontend layout, merchant portals, and user flow
 
 # 👥 Founding Team & Collaboration
 
-* **Ramin Ayobi** – Founder, Product Architect & Technology Lead 
+* **Ramin Ayoubi** – Founder, Product Architect & Technology Lead 
 * **Growth & Operations Lead** – Co-Founder
 
 For strategic joint-venture inquiries, institutional acceleration programs (GCC/Global), or academic research collaborations on ICT4D frameworks, please contact the founding team via [LinkedIn](https://www.linkedin.com/in/ramin-jan-ayoubi-41123541a?utm_source=share_via&utm_content=profile&utm_medium=member_android).
