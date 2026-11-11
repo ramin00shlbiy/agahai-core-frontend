@@ -2,7 +2,7 @@
 
 Welcome to the official codebase for Agahai, a high-performance digital transaction and asset digitization infrastructure ecosystem tailored for emerging markets. This repository hosts the complete front-end user interface (UI) architecture built using Flutter.
 
-🚀 **Live Build (APK):** For live evaluation, the compiled Android application package is available under the Releases section. [Download app-release.apk](https://github.com/ramin00shlbiy/agahai-core-frontend/releases/download/v1.0.0-alpha/app-release.apk) *(Make sure to link your exact release URL here)* to install directly on an Android device or emulator.
+🚀 **Live Build (APK):** For live evaluation, the compiled Android application package is available under the Releases section. [Download app-release.apk](https://github.com/ramin00shlbiy/agahai-core-frontend/releases/download/v1.0.0-alpha/app-release.apk)to install directly on an Android device or emulator.
 
 # 🛠️ Tech Stack & Architecture Blueprint
 
@@ -22,9 +22,10 @@ Unlike standard web applications, Agahai shifts the paradigm from heavy data dep
 
 Please note that while the core frontend layout, merchant portals, and user flows are open for institutional vetting and academic collaboration within this public repository, the production backend server environments, cryptographic escrow protocols, and live database configurations are securely isolated to protect proprietary Intellectual Property (IP) and system integrity.
 
-# 👥 Founding Team & Collaboration
+Founding Team & Collaboration
 
-* **Ramin Ayoubi** – Founder, Product Architect & Technology Lead 
-* **Growth & Operations Lead** – Co-Founder
+Ramin Ayoubi – Founder, Product Architect & Technology Lead
 
-For strategic joint-venture inquiries, institutional acceleration programs (GCC/Global), or academic research collaborations on ICT4D frameworks, please contact the founding team via [LinkedIn](https://www.linkedin.com/in/ramin-jan-ayoubi-41123541a?utm_source=share_via&utm_content=profile&utm_medium=member_android).
+Open Position: Co-Founder (Growth & Operations – Europe/Global)
+
+For strategic joint-venture inquiries, institutional acceleration programs (GCC/Global), or academic research collaborations on ICT4D frameworks, please contact the founder via LinkedIn. We are actively seeking a strategic partner based in Europe to lead operations and investor relations. [LinkedIn](https://www.linkedin.com/in/ramin-jan-ayoubi-41123541a?utm_source=share_via&utm_content=profile&utm_medium=member_android).
