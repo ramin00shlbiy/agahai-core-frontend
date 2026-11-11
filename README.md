@@ -2,7 +2,7 @@
 
 Welcome to the official codebase for Agahai, a high-performance digital transaction and asset digitization infrastructure ecosystem tailored for emerging markets. This repository hosts the complete front-end user interface (UI) architecture built using Flutter.
 
-🚀 **Live Build (APK):** For live evaluation, the compiled Android application package is available under the Releases section. [Download app-release.apk](https://github.com/ramin00shlbiy/agahai-core-frontend/releases/download/v1.0.0-alpha/app-release.apk)to install directly on an Android device or emulator.
+🚀 **Live Build (APK):** For live evaluation, the compiled Android application package is available under the Releases section. [Download app-release.apk](https://github.com/ramin00shlbiy/agahai-core-frontend/releases/download/v1.0.0-alpha/app-release.apk) to install directly on an Android device or emulator.
 
 # 🛠️ Tech Stack & Architecture Blueprint
 
