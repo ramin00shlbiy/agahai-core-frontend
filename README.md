@@ -22,7 +22,7 @@ Unlike standard web applications, Agahai shifts the paradigm from heavy data dep
 
 Please note that while the core frontend layout, merchant portals, and user flows are open for institutional vetting and academic collaboration within this public repository, the production backend server environments, cryptographic escrow protocols, and live database configurations are securely isolated to protect proprietary Intellectual Property (IP) and system integrity.
 
-Founding Team & Collaboration
+# Founding Team & Collaboration
 
 Ramin Ayoubi – Founder, Product Architect & Technology Lead
 
